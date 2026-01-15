@@ -37,6 +37,7 @@ public class ConsoleOutput {
 		System.out.printf("%f\n", 3.2582);
 		System.out.printf("%4.2f\n", 3.2582);
 		System.out.printf("%d와 %4.2f\n", 10, 3.2582);
+		System.out.printf("%f\n", 6.7);
 				
 	}
 }
